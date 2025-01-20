@@ -516,7 +516,7 @@ https://www.tooplate.com/view/2120-ben-resume
 
   .contact-form #submit-button {
     background: var(--primary-color);
-    border: none;
+    border: 3px solid #616161;
     border-radius: var(--border-radius-medium);
     color: var(--dark-color);
     cursor: pointer;
