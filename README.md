@@ -1,1 +1,1 @@
-https://eugenezakhno.github.io/resume
+https://eugenezakhno.github.io/go-resume
